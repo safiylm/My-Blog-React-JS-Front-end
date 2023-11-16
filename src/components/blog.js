@@ -31,7 +31,7 @@ function Blog() {
         <div className="App">
 
             <nav>
-                <div><a href="">Souto </a></div>
+                <div><a href="">My Blog </a></div>
                 <div><a href="">Blog</a><a href="">About</a><a href="">Contact</a></div>
                 <div>
                     <a href=""><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
