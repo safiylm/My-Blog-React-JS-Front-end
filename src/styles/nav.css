@@ -1,0 +1,21 @@
+ nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding : 15px ;
+  }
+
+.div0 nav div a {color:white;}
+
+  
+ nav div a {
+    text-decoration: none;
+    text-transform: uppercase;
+    /* color: white; */
+    font-size: 18px;
+    font-weight: 100;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding : 0 30px ;
+  }
+  

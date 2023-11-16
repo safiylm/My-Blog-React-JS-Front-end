@@ -1,0 +1,35 @@
+.container-publications-photos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    padding:30px 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.une-publication{
+    text-align: center;
+    max-width: 430px;
+    margin: 15px;
+}
+
+.une-publication img{
+    width: 430px;
+    height: auto;
+    object-fit: cover;
+}
+
+.une-publication .titre{
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.une-publication .description {
+    font-size: 15px;
+
+}
+
+.une-publication .date, .une-publication .readmore{
+    color: gray;
+}
