@@ -1,5 +1,6 @@
 import Blog from './components/blog.js'
 import Accueil from './components/accueil.js'
+import Marifetullah from './components/marifetullah.js'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 
@@ -13,6 +14,7 @@ function App() {
           <Route path="/accueil" element={<Accueil />} />
 
           <Route path="/blog" element={<Blog />} />
+          <Route path="/m" element={<Marifetullah />} />
         </Route>
       </Routes>
     </BrowserRouter>
