@@ -10,8 +10,10 @@ import maladie from '../assets/maladie.jpg'
 import musibet from '../assets/musibet.jpg'
 import hakimiyet from '../assets/hakimiyet.jpg'
 import sanat from '../assets/sanat1.jpg'
-
-
+import İnsan from '../assets/insan.jpg'
+import nature from '../assets/Nature.jpg'
+import yasamyolculu from '../assets/yasamyolculu.jpg'
+import changeyourself from '../assets/change-yourself.jpg'
 
 function Marifetullah() {
 
@@ -63,7 +65,9 @@ function Marifetullah() {
                     <img src={ayna5} />
                     <div className="date">02.03.2023</div>
                     <h1 className="titre"> Eşya   </h1>
-                    <p className="description"> Eşyanın göründüğünden fazlasına işaret ediyor: 'İki kere iki dördün mükemmelliğine inanıyorum; fakat ondan daha üstün olduğuna inandığım şey, iki kere ikinin beş etmesidir.' Hakli; varoluş, 'şey'lerin yan yana gelişinden fazlasını okutturmalı insana. Dostoyevski</p>
+                    <p className="description"> Eşyanın göründüğünden fazlasına işaret ediyor: 'İki kere iki dördün mükemmelliğine inanıyorum; fakat ondan daha üstün olduğuna inandığım şey, iki kere ikinin beş etmesidir.' Hakli; varoluş, 'şey'lerin yan yana gelişinden fazlasını okutturmalı insana. Dostoyevski
+                        <br /> Oku. Allah’ın adıyla oku. Yani Eşyanın arkasındaki esmâları oku.
+                    </p>
                     <a className="readmore">Read More </a>
                 </div>
 
@@ -83,7 +87,9 @@ function Marifetullah() {
                     <img src={ayna8} />
                     <div className="date">02.03.2023</div>
                     <h1 className="titre"> Eşyanın arkasındaki Esma </h1>
-                    <p className="description"> </p>
+                    <p className="description">nihayet kemalde bir cemal ve nihayet cemalde bir kemal, elbette kendini görmek ve göstermek, teşhir etmek istemesi, en esaslı bir kaidedir. İşte bu esaslı düstur-u umumîye binaendir ki, bu kitab-ı kebîr-i kâinatın Nakkaş-ı Ezelîsi, bu kâinatla ve bu kâinatın herbir sahifesiyle ve herbir satırıyla, hattâ harfleri ve noktalarıyla kendini tanıttırmak ve kemâlâtını bildirmek ve cemâlini göstermek ve kendisini sevdirmek için, en cüz'îden en küllîye kadar herbir mevcudun müteaddit lisanlarıyla cemâl-i kemâlini ve kemâl-i cemâlini tanıttırıyor ve sevdiriyor.
+
+                        İşte, ey gafil insan! Bu Hâkim-i Hakem-i Hakîm-i Zülcelâli ve'l-Cemal, sana karşı kendisini herbir mahlûkuyla böyle hadsiz ve parlak tarzlarda tanıttırmak ve sevdirmek istediği halde, sen Onun tanıttırmasına karşı imanla tanımazsan ve Onun sevdirmesine mukabil ubudiyetinle kendini Ona sevdirmezsen, ne derece hadsiz muzaaf bir cehalet, bir hasâret olduğunu bil, ayıl. </p>
                     <a className="readmore">Read More </a>
                 </div>
 
@@ -131,6 +137,102 @@ function Marifetullah() {
                     </p>
                     <a className="readmore">Read More </a>
                 </div>
+
+                <div className="une-publication">
+                    <img src={İnsan} />
+                    <div className="date">02.03.2023</div>
+                    <h1 className="titre"> İnsan </h1>
+                    <p className="description">
+
+                        Bediuzzaman insan hakkında sözleri:
+                        “Şecere-i kâinatın (kâinat ağacının) çekirdeği ve en mükemmel (nurlu) meyvesidir.”
+                        “Su kâinatın neticesi ve en mükemmel meyvesi ve Halik-i Kâinatın (Kâinatın Yaratıcısı) tercümanı ve sevgilisidir.”
+                        “Göklerin ve yerin yaratılış sebebi, bütün alemlerin asil çekirdeği, en mükemmel ve en son meyvesidir.”
+
+
+                    </p>
+                    <a className="readmore">Read More </a>
+                </div>
+
+
+                <div className="une-publication">
+                    <img src={İnsan} />
+                    <div className="date">02.03.2023</div>
+                    <h1 className="titre"> Un exemple d'une Manifestation d'un nom d'Allah </h1>
+                    <p className="description">
+
+                        En effet, le lion affamé qui donne sa proie à son faible lionceau, le préférant ainsi à lui-même; la poule connue pour sa lâcheté qui pourtant se jette sur un chien ou un fauve pour protéger son poussin; et le figuier qui se nourrit de la boue et donne à ses fruits un lait pur; montrent tous incontestablement à quiconque n’est pas aveugle qu’ils agissent au Nom d’un Être infiniment Miséricordieux, Généreux et Compatissant. (2eme verité) Said nursi
+
+                    </p>
+                    <a className="readmore">Read More </a>
+                </div>
+
+
+                <div className="une-publication">
+                    <img src={İnsan} />
+                    <div className="date">02.03.2023</div>
+                    <h1 className="titre"> ... </h1>
+                    <p className="description">
+
+                        Ce que l’homme cherche dans la religion c’est de sauver sa propre individualité, de l’éterniser, ce qu’on n’obtient ni avec la science ni avec l’art, ni avec la morale. Miguel de Unamuno
+                        <br />
+                        <br />
+                        Je rencontre de temps en temps un jeune homme chez lequel je ne voudrais rien changer. Mais j’éprouve un sentiment pénible en voyant tant de jeunes gens disposés à se laisser entrainer par le torrent du siècle, et je ne me laisserai pas de faire remarquer que des rames ont été mises entre les mains de l’homme, dans sa barque fragile, afin qu’il ne s’abandonne pas aux caprices des vagues, mais se laisse gouverner par sa raison. Goethe
+
+                    </p>
+                    <a className="readmore">Read More </a>
+                </div>
+
+                <div className="une-publication">
+                    <img src={İnsan} />
+                    <div className="date">02.03.2023</div>
+                    <h1 className="titre"> ... </h1>
+                    <p className="description">
+
+                        L’Imam An-Naçafi a dit : « Et Celui Qui a fait entrer ce monde en existence, c’est Allah ta’ala, (Al-Wahid) Celui Qui n’a pas d’associé, (Al-Qadim) Celui Qui existe de toute éternité et Qui est exempt de début, (Al-Hayy) Celui Qui a pour attribut la vie, (Al-Qadir) Celui Qui est tout-puissant sur toute chose, (Al-‘Alim) Celui Qui sait tout, (As-Sami’ou l-Basir) Celui Qui entend et Qui voit, (Ach-Cha-i l-Mourid)
+                        Celui Qui a la volonté et le vouloir. Il n’est pas quelque chose qui advient aux corps, ni un corps, ni une substance unitaire, ni quelque chose ayant une image, ni limité, ni dénombrable, ni constitué de parties, ni divisible, ni composé, ni fini, Il n’est pas attribué d’un genre ni d’un comment, Il n’est pas localisé dans un endroit et Il ne subit pas le temps, rien ne Lui ressemble. Et rien n’échappe à Sa science et à Sa puissance.»
+
+                    </p>
+                    <a className="readmore">Read More </a>
+                </div>
+
+                <div className="une-publication">
+                    <img src={İnsan} />
+                    <div className="date">02.03.2023</div>
+                    <h1 className="titre"> ... </h1>
+                    <p className="description">
+
+
+                        L’Imam Al-Kawthari dit dans son livre « Maqalatou l-Kawthari » : « L’exemption de Allah soubhanahou, de l’endroit et de ce qui est relatif aux endroits, du temps et de ce qui est relatif au temps, la voilà la croyance des gens de la vérité en dépit de la rage des anthropomorphistes (moujassimah) déclarés »
+                        <br />
+                        <br /> Le Qadi Ibnou Rouchd Al-Jadd a dit : « On ne dit pas à Son sujet (c’est-à-dire au sujet de Allah) « Où ? » ni « Comment ? » ni « Quand ? » car Il est le Créateur du temps et de l’endroit »
+                        <br />
+                        <br /> Chaykh Mouhammad Haçanayn Makhlouf a dit : « Allah est exempt de toute imperfection et de toutes les caractéristiques de ce qui entre en existence parmi lesquelles le temps et l’endroit. Il n’est donc pas sujet au temps et Il n’est pas contenu dans un endroit. Étant le Créateur de l’un et de l’autre, comment en aurait-Il besoin ?! »
+
+                    </p>
+                    <a className="readmore">Read More </a>
+                </div>
+
+
+                <div className="une-publication">
+                    <img src={İnsan} />
+                    <div className="date">02.03.2023</div>
+                    <h1 className="titre"> ... </h1>
+                    <p className="description">
+
+
+                        Biz elli altmış kişi bir ortamda otursak, tam muhabbet ederken kapıdan bir adam girse ve dese ki: “Çıkın lan buradan! Çıkın!” Ne deriz o adama? “Ulan ya yağlı yemek yedin dilin kaydı ya da mermiden hızlı koşuyorsun.” Orada o adami atmosfer tabakasının içinde bulunduğuna pişman ederiz.
+                        <br />
+                        <br /> 
+                         Peki, aynı adam aynı şekilde gelse... Ama bu sefer elinde bir evrakla... Genelkurmay Başkanlığı'nın en düşük rütbeli askeri ve Genelkurmay Başkanlığı'nın emriyle bize “Çıkın!” diyor. Hem çıkarır hem de istediği yere götürebilir. Neden? Çünkü elinde bulunan isim çok sağlam değil mi?
+                        <br />
+                        <br />  
+                        Aynen öyle de, sen, Genelkurmay'ın ismiyle bu kadar icraatı yapabilecekken, Kâinat Sultanı'nın ismiyle yani “Bismillah” ile, soruyorum neler yapabilirsin? Bismillah ile hangi kapı kapanabilir o Sultan'ın emri ile? “Bismillah”la Allah'ın nişanesini alıyoruz. Mehmet Yıldız
+
+                    </p>
+                    <a className="readmore">Read More </a>
+                </div>
+
             </div>
 
         </div>
