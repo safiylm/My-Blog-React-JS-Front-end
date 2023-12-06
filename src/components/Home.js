@@ -3,7 +3,7 @@ import '../styles/App.css';
 import '../styles/nav.css';
 
 
-function Accueil() {
+function Home() {
 
 
     return (
@@ -32,9 +32,22 @@ function Accueil() {
                     </div>
                     <div className="div1-image"><img src={imgblog} /></div>
                 </div>
+
+
+                <div className="div2">
+                    <div>
+                       <a href="/liste-recette">Mes Recettes</a> 
+                    </div>
+
+                    <div>
+                       <a href="marifetullah">Marifetullah</a> 
+                    </div>
+                </div>
+
+
             </div>
         </div>
     );
 }
 
-export default Accueil;
+export default Home;
