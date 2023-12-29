@@ -1,7 +1,11 @@
 import "../../styles/blogrecette1.scss"
+import Nav from "../nav"
+
 function ListeRecette() {
 
     return (
+    <> 
+    <Nav/>
         <div className="page-blog-recette1">
             
 
@@ -220,13 +224,11 @@ function ListeRecette() {
            <div>Conditions d'utilisation</div> 
            <div> <a href="https://fr.wix.com/website-template/view/html/1719?originUrl=https%3A%2F%2Ffr.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fblog%2Ffood-travel&tpClick=view_button&esi=c2a43659-ad4b-4a43-b4d6-f5e3beaeb23b">lien </a></div>
 
-
-
-
-
             </footer>
 
         </div>
+    </>
+
     );
 }
 
