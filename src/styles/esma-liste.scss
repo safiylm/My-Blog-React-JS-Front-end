@@ -1,0 +1,30 @@
+h1{
+    color: rgb(70, 68, 68);
+
+}
+
+.list-tag-esma{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.list-tag-esma-item{
+    background-image: url("../assets/beautiful-sea.jpg");
+    width: 400px;
+    height: 400px;
+    background-size: 400px 400px;
+    line-height: 400px;
+    object-fit: cover;
+    margin: 10px;
+     a{
+        color: rgb(70, 68, 68);
+        font-size: 25px;
+        font-weight: 800;
+        margin: 0 auto;
+        background-color: white;
+     }
+}
