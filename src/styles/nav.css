@@ -4,7 +4,9 @@
     align-items: center;
     justify-content: space-between;
     padding : 15px ;
+
   }
+  nav div a {color:rgb(70, 68, 68); font-weight: 600;}
 
 .div0 nav div a {color:white;}
 
