@@ -1,4 +1,4 @@
-import '../../styles/App.css';
+
 import '../../styles/esma-display.scss';
 import video0 from "../../assets/Univers is Museum.mp4"
 import Nav from "../nav";

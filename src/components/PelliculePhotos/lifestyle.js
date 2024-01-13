@@ -1,4 +1,3 @@
-import '../../styles/App.css';
 import '../../styles/nav.css';
 import '../../styles/gallery-photos.css';
 import Nav from '../nav';
@@ -42,7 +41,9 @@ function Lifestyle() {
                     <p className="description">Have little object in my house, just those have really used.</p>
                     <a className="readmore">Read More </a>
 
-                </div> <div className="une-publication">
+                </div> 
+                
+                <div className="une-publication">
                     <img src={ph6} />
                     <div className="date">02.03.2023</div>
                     <h1 className="titre">Travel </h1>

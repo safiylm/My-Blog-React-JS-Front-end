@@ -1,15 +1,18 @@
 .div0{
   background-image: url('../assets/background-desktop-2500w.jpg');
   background-size: 110% 100% ;
+  padding-bottom: 100px;
 }
 
 
  .div1{
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
   align-items: center;
   justify-content :space-around;
   color: white;
+  padding: 10px;
 }
 
 .div1 .div1-image img{

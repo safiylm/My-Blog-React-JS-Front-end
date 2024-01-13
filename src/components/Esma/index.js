@@ -1,4 +1,3 @@
-import '../../styles/App.css';
 import '../../styles/esma-liste.scss';
 import Nav from "../nav";
 

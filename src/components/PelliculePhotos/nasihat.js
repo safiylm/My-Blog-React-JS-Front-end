@@ -1,4 +1,3 @@
-import '../../styles/App.css';
 import '../../styles/nav.css';
 import '../../styles/gallery-photos.css';
 import Nav from '../nav';
