@@ -1,4 +1,3 @@
-import '../../styles/App.css';
 import '../../styles/nav.css';
 import '../../styles/gallery-photos.css';
 import Nav from '../nav.js';
@@ -26,8 +25,177 @@ function Marifetullah() {
                 <div className="une-publication">
                     <img src={ayna2} />
                     <div className="date">02.03.2023</div>
+                    <h1 className="titre">"Kendini bilen, Rabbini bilir" Hadis</h1>
+                    <p className="description">
+                        Neden Allah'ı sıfât ve esmâsıyla tanınmak enaniyete yani kendini tanımaya bağlıdır?
+                        <br />
+                        <br />
+                        Mutlak ve muhit birşeyin hududu ve nihayeti (sonu) olmadığı için, ona bir şekil verilmez;
+                        ve üstüne bir suret ve bir taayyün vermek için hükmedilmez, mahiyeti ne olduğu anlaşılmaz.
+                        Meselâ, zulmetsiz (karanlıksız ), daimî bir ziya (ışık) bilinmez ve hissedilmez.
+                        Ne vakit hakikî veya vehmî bir karanlıkla bir hat çekilse, o vakit bilinir. İşte, Cenâb-ı Hakkın, ilim ve
+                        kudret, Hakîm ve Rahîm gibi sıfât ve esmâsı muhit,
+                        hudutsuz, şeriksiz olduğu için, onlara hükmedilmez ve ne oldukları bilinmez ve hissolunmaz.
+                    </p>
+                    <a className="readmore">Read More </a>
+                </div>
+
+                <div className="une-publication">
+                    <img src={ayna2} />
+                    <div className="date">02.03.2023</div>
+                    <h1 className="titre"></h1>
+                    <p className="description">
+                        Peki insan enaniyetiyle Allah’ı nasıl tanır?
+                        İnsanın enaniyeti bir ölçü birimi, metre gibi, kilo gibi...
+                        Metreyle kıyaslayacamki senin boyun kaç bileyim.
+                        Kilogramla kıyaslayacamki senin kilon kaç bileyim.
+                        <br />
+                        <br />
+                        Kıyaslamadan taniyamazsin. Enaniyetle kıyaslayacamki Allah tanıyabileyim. Nasıl?
+                        "Görmek nedir bilmeseydin Allah'ta ben gören bir yaraticiyim deseydi anlayabilir miydin?"
+                        Duymak nedir bilmeseydin Allah'ta ben duyan bir yaraticiyim deseydi anlayabilir miydin?
+                        Hiç acıkmasaydın Allah'ta ben Rezzakım deseydi anlayabilir miydin?
+                        Hiç hastalanmasaydin Allah'ta ben Safiyim deseydi anlayabilir miydin?
+                        <br /><br />
+                        İnsan kendindeki ölçücüklerle Allah'ı yavaş yavaş tanır.
+                        Bu haneye mâlik olduğum gibi, Hâlık da şu kâinatın mâlikidir.
+                        Cüz'î ilmim Onun külli-ilmini tanıtır.
+                        Kisbî sanatçığıyla O Sâni-i Zülcelâlin ibdâ-i sanatını anlar.
+                        Meselâ, "Ben şu evi nasıl yaptım ve tanzim ettim.
+                        Öyle de, şu dünya hanesini birisi yapmış ve tanzim etmiş"der.
+                    </p>
+                    <a className="readmore">Read More </a>
+                </div>
+                <div className="une-publication">
+                    <img src={ayna2} />
+                    <div className="date">02.03.2023</div>
+                    <h1 className="titre"></h1>
+                    <p className="description">        Ve hâkezâ, bütün sıfât ve şuûnât-ı İlâhiyeyi bir derece bildirecek,
+                        gösterecek binler esrarlı ahval ve sıfât ve hissiyat, enede münderiçtir.
+                        <br /><br />
+                        Enede münderiç olan herşeyi için :
+                        Ya Manayı harf nazariyla bakacan.
+                        Ya Manayı isim nazariyla bakacan.
+                        <br /><br />
+                        Manayı harf : mânâsı kendinde olmayan ve başkasının mânâsını gösterir.
+                        Manayı isim : bizzat kendine bakan manasi.
+                        Yani sen kendinde olan özelikleri ya kendinden bilcen ya Allah’tan bilcen.
+                        <br /><br />
+
+                        Ene manayı harfdir.
+                        Yani ene mânâsı kendinde olmayan ve başkasının mânâsını gösterir.
+                        Eşyanın hakikatini görmek bir şeyin sadece görüntüden ibaret olmadığını bilmek ve anlamaktir.
+                        Vereni kabul eder; kendi icad edemez. O yüzde fâil değil; icaddan eli kısadır. Rububiyeti hayaliyedir.
+                        <br /><br />
+                        Kendine manayi isimle bakarsan ne olur? Sirk olur.</p>
+                    <a className="readmore">Read More </a>
+                </div>
+                <div className="une-publication">
+                    <img src={ayna2} />
+                    <div className="date">02.03.2023</div>
+                    <h1 className="titre"></h1>
+                    <p className="description">Tefekkülük cümleler
+
+                        “İlim bir nokta idi, cahiller onu çoğalttı." Hz. Ali
+                        <br /><br />
+                        "İlim ilim bilmektir<br />
+                        İlim kendini bilmektir<br />
+                        Sen kendini bilmezsen<br />
+                        Bu nice okumaktır?”<br />
+                        Yunus Emre<br />
+
+                        <br /><br />
+                        Hz. Ali “Koskoca âlem içine yerleştirilmiş, sen kendini hâlâ küçük bir şey mi zannediyorsun?” der
+
+                        <br /><br />
+                        Her ne ararsan kendinde ara<br />
+                        Kudüs'te Mekke'de hacda değildir."
+                        Hacı Bektaş Veli
+                        <br /><br />
+                        İnsanı da insan yapan şey, benlik zannı değil, hiçlik bilincidir.
+                        <br /><br />
+                        Oku! Allah'in ismi ile oku. Okumaktan kastedilen nedir? Sadece yazani okumak mi? <br />
+                        Esyanin arkasında ki esmayi, Allah'in sifatlarini, suunatini kesfetmektir. Ayetin batini manasi.
+                        <br /><br />
+                        Gördüğün gibi "oku” kelimesi
+                        okyanuslardan derin bir mevzu...
+                        İçeriği zengin, anlamı büyük...
+                        <br /><br />
+                        “Ben oldum” diyenler. Her şeyi bildiğini düşünür. "Oldum demenin öldüm demekle aynı olduğunu bilmez.”
+
+                    </p>
+                    <a className="readmore">Read More </a>
+                </div>
+                <div className="une-publication">
+                    <img src={ayna2} />
+                    <div className="date">02.03.2023</div>
+                    <h1 className="titre"></h1>
+                    <p className="description">
+                        Yaratıcıyı tanıyabilmek için sıralama <br /><br />
+                        (1)Zatı Akdes <br />
+                        (2)Şunnat-Şuun-Şen <br />
+                        (3)Sıfat-Vasıf <br />
+                        (4)İsim-Ünvan <br />
+                        (5)Eşya-Asar-Masnu-Esbab
+
+                        <br /><br />
+
+                        Zatı Akdes Allah’ın her şeyden münezzeh, hak, temiz zat.
+                        Allah’ın zatı ile ilgili tefekkür edelim mi?
+                        Allah zatı hakkında tefekkür edebileceğin hiçbir döne yok, o yüzden caiz değil!
+                        Allah'ın zatı nerededir?
+                        Allah kainatın içinde değildir. Nasıl güneş bizden uzaktır ama ışınları her yeri boyuyorsa.
+                        Ayni şekilde Zatı Akdes zamandan ve mekândan münezzehtir, ayrıdır, kâinattaki gördüğümüz her yeri ihata eden Onun Şunnatı, sıfatları, esması ve eşyası.
+                        <br /><br />
+
+                        Siralamanin calisma prensibi :
+                        Bir altına indiğinde Allah'ın vacib ül vücûdu yanı olması zorunlu olan vücudu, şuunatı tahrik ediyor, çalıştırıyor.
+                        şuunatı sıfatı ve vasıfları tahrık ediyor, çalıştırıyor.
+                        Sıfat ve vasıflar isimleri tahrik ediyor, çalıştırıyor.
+                        İsimlerde eşyayı tahrik ediyor, çalıştırıyor.
+                        <br /><br />
+                        Bu sıralamayı yukarıdan aşağı alırsan neyin neyi tahrik ettiğini anlarsın!
+                        Aşağıdan yukarı alırsanda neyin neyin gölgesi olduğunu anlarsın!
+                        <br /><br />
+                        Istidat eşyaya tezahür noktasında anlaşılıyor.
+                        Biz Mimar Sinan’a ne zaman mimar dedik? Selimiye camii eserini görünce. Niye ?
+                        Çünkü Mimar Sinanin ruhunda mimarlığın istidat olduğunu bilemezdik.
+                        Cami (eşya) mimarlığın istidadı tezahür noktasında önemli.
+                        Istidat sıfatı tahrik ediyor, ilim irade kudret devreye giriyor.
+                        Sıfat isimleri tahrik ettikten sonra da esere dönüşüyor ve biz ona Mimar Sinan ismi veriyoruz.
+                        Sıfatı tecelliye sevkeden şey ondaki istidat oluyor.
+                        Allah'ı tanıma noktalarında en önemli meselelerden bir tanesi de eşyayı okuma sanatıdır.
+
+                    </p>
+                    <a className="readmore">Read More </a>
+                </div>
+
+                <div className="une-publication">
+                    <img src={ayna2} />
+                    <div className="date">02.03.2023</div>
+                    <h1 className="titre">Lezzeti mukaddese</h1>
+                    <p className="description">
+                        Lezzeti mukaddese Allah'in şuunatı.
+                        Allah Sanatından lezzeti mukaddes alir. Sen ben gibi bir lezzet değil haşa biz tabirinden aciziz! Ona lezzeti mukaddese deniyor.
+
+                        Mesela Allah Azze ve Celle sanatlı bir kul yaratıyor ve lezzet aliyor.
+                        Mescidi Aksanın ayağa kalktığını gördüğünde lezzet alir yoksa Allah memnun olmayacaksa ve razı olmayacaksa hepsi taş parçası olur, ne anlamı kalır ki. Başka bir incelik var.
+                        Namazın önemi şuunatı ilahiyede çıkıyor.
+                        Namazın önemi Allah’ın lezzeti mukaddes almasindan kaynakli. Yoksa namaz cennetin karşılı değil maddi olarak.
+                    </p>
+                    <a className="readmore">Read More </a>
+                </div>
+
+
+                <div className="une-publication">
+                    <img src={ayna2} />
+                    <div className="date">02.03.2023</div>
                     <h1 className="titre">Kâinat bir âyinedir</h1>
-                    <p className="description">Kâinat bir âyinedir. Her mevcudâtın mâhiyeti dahi birer âyinedir. Kudret-i Ezeliye ile îcâd-ı İlâhîye mâruzdurlar. Herbir mevcud, bir cihetle Şems-i Ezelînin bir isminin bir nevi âyinesi olup bir nakşını gösterir.</p>
+                    <p className="description">Kâinat bir âyinedir. Her mevcudâtın mâhiyeti dahi birer âyinedir. Kudret-i Ezeliye ile îcâd-ı İlâhîye mâruzdurlar. Herbir mevcud, bir cihetle Şems-i Ezelînin bir isminin bir nevi âyinesi olup bir nakşını gösterir.
+                    <br /> <br />
+                    Eşyanın göründüğünden fazlasına işaret ediyor: 'İki kere iki dördün mükemmelliğine inanıyorum; fakat ondan daha üstün olduğuna inandığım şey, iki kere ikinin beş etmesidir.' Hakli; varoluş, 'şey'lerin yan yana gelişinden fazlasını okutturmalı insana. Dostoyevski
+                        <br /> Oku. Allah’ın adıyla oku. Yani Eşyanın arkasındaki esmâları oku.
+                    </p>
                     <a className="readmore">Read More </a>
                 </div>
 
@@ -54,16 +222,24 @@ function Marifetullah() {
                     <a className="readmore">Read More </a>
                 </div>
 
-
                 <div className="une-publication">
                     <img src={ayna5} />
                     <div className="date">02.03.2023</div>
-                    <h1 className="titre"> Eşya   </h1>
-                    <p className="description"> Eşyanın göründüğünden fazlasına işaret ediyor: 'İki kere iki dördün mükemmelliğine inanıyorum; fakat ondan daha üstün olduğuna inandığım şey, iki kere ikinin beş etmesidir.' Hakli; varoluş, 'şey'lerin yan yana gelişinden fazlasını okutturmalı insana. Dostoyevski
-                        <br /> Oku. Allah’ın adıyla oku. Yani Eşyanın arkasındaki esmâları oku.
+                    <h1 className="titre"> Allah’ın vücudu Zatidir   </h1>
+                    <p className="description">
+                        <h2>   Allah’ın vücudu Zatidir, yani kaynağı kendinden olan.</h2>
+                        ışık zatidir, karanlık ışığın olmamasıdır.
+                        Bir kaşık suyu sana attım, bir bidon suyu da ona attım, hanginiz daha çok ıslandı? O
+                        Okyanusu bir bardak suyu mu boşaltsam veya bir bardak suyu okyanusa mı boşaltsam daha fazla ıslatırım?
+                        İkisi de değil. Çünkü zati olan ıslaklığı içinde barındıran şey yani ıslatan bir şey ıslanamaz.
+                        Onda ıslaklığın mertebeleri olamaz. Çünkü ıslaklık onun zati özelliğidir
+                        Nasıl ıslatmak onun zati özeliyken daha az, daha çok ıslak mı kurumu? Yorumları yapılamazsa
+                        Yaratma özelliği içinde zati olan bir yaratıcıyı kim yaratı diye sorulmaz.
                     </p>
                     <a className="readmore">Read More </a>
                 </div>
+
+
 
                 <div className="une-publication">
                     <img src={ayna5} />
@@ -217,23 +393,23 @@ function Marifetullah() {
                     <div className="date">02.03.2023</div>
                     <h1 className="titre"> Sebepler </h1>
                     <p className="description">
-                    <h2> Bir eylem yaşadın</h2>
-                Mesela trafikte biriyle çarpıştın, kavga başladın şimdi seni yaratan bir Allah var,
-                doğru mu? O adamı yaratan aynı Allah mı? Peki eylemi yaratan aynı Allah mı? Peki vakadan haberi var mı?
-                O zaman diyor ki mektubu aç mazrufu oku. Sen perdeyi kaldırmıyorsun ki Cenab-ı Allah bana ne buyurmuş
-                göresin. Sebepleri kaldır aradan Zahir olsun yaratan. Burayı göremiyoruz!
-                
-<br/>
-<br/>
-                <h2> Kanun iş yapmaz </h2>
-                Bir tabela astım Burada sigara içmek kanunen yasaktır 100£ verirsin. Birisi efkarlanıp sigara yaktı.
-                Şurada yazılı olan kanun sana suç ceza kese bilir mi? Kesemez. Ne lazım? Ceza kesecek memurlar lazım.
-                Aynı sigara içene 100£ ceza kesen kanun iş yapmadığı gibi. Yer çeker diye bir kanun diye iş yapmaz. Yer
-                çekimi dediğin olay Allah’ın kayyum isminin tecellisidir.
-                Bütün kanunlar gibi ve o kanunların iş yapmadığı gibi yer çekim eyleminide yaratan yalnız ve yalnız
-                Cenab-ı Allah’tır. O zaman ne yapalım hiç eylemde bulunmayalım mı?
-                Hayır, bulunacağız. O eylemler fili dua oluyor. Sen bir gün taksi çağırmak istiyorsan onun duası yasın
-                okumak değildir. Onun fili duası farklıdır.
+                        <h2> Bir eylem yaşadın</h2>
+                        Mesela trafikte biriyle çarpıştın, kavga başladın şimdi seni yaratan bir Allah var,
+                        doğru mu? O adamı yaratan aynı Allah mı? Peki eylemi yaratan aynı Allah mı? Peki vakadan haberi var mı?
+                        O zaman diyor ki mektubu aç mazrufu oku. Sen perdeyi kaldırmıyorsun ki Cenab-ı Allah bana ne buyurmuş
+                        göresin. Sebepleri kaldır aradan Zahir olsun yaratan. Burayı göremiyoruz!
+
+                        <br />
+                        <br />
+                        <h2> Kanun iş yapmaz </h2>
+                        Bir tabela astım Burada sigara içmek kanunen yasaktır 100£ verirsin. Birisi efkarlanıp sigara yaktı.
+                        Şurada yazılı olan kanun sana suç ceza kese bilir mi? Kesemez. Ne lazım? Ceza kesecek memurlar lazım.
+                        Aynı sigara içene 100£ ceza kesen kanun iş yapmadığı gibi. Yer çeker diye bir kanun diye iş yapmaz. Yer
+                        çekimi dediğin olay Allah’ın kayyum isminin tecellisidir.
+                        Bütün kanunlar gibi ve o kanunların iş yapmadığı gibi yer çekim eyleminide yaratan yalnız ve yalnız
+                        Cenab-ı Allah’tır. O zaman ne yapalım hiç eylemde bulunmayalım mı?
+                        Hayır, bulunacağız. O eylemler fili dua oluyor. Sen bir gün taksi çağırmak istiyorsan onun duası yasın
+                        okumak değildir. Onun fili duası farklıdır.
                     </p>
                     <a className="readmore">Read More </a>
                 </div>
