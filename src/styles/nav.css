@@ -20,4 +20,15 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding : 0 30px ;
   }
-  
+
+  @media only screen and (max-width: 900px) {
+
+    nav{
+      max-width: 100vw;
+      flex-direction: column;
+    }
+    nav div  {
+      display: block;
+      margin :  15px ;
+    }
+  }
