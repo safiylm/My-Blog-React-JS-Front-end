@@ -1,5 +1,5 @@
 import '../../styles/nav.css';
-import '../../styles/gallery-photos.css';
+import '../../styles/gallery-photos.scss';
 import Nav from '../nav.js';
 import ayna2 from '../../assets/ayna2.jpg'
 import ayna3 from '../../assets/ayna3.jpg'
