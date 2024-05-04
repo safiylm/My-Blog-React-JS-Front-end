@@ -1,0 +1,103 @@
+.container-publications-photos {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 30px 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.une-publication {
+    text-align: center;
+    max-width: 430px;
+    margin: 25px 15px;
+
+    img {
+        width: 430px;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .titre {
+        font-size: 19px;
+        font-weight: 400;
+        padding: 10px;
+    }
+
+    .description {
+        font-size: 15px;
+
+    }
+
+    .date,
+    .readmore {
+        color: gray;
+    }
+}
+
+
+#btn-fermer{
+    display: none;
+}
+.nasihat .description {
+    font-size: 15px;
+    height: 70px;
+    overflow: hidden;
+}
+
+.expand {
+    position: fixed;
+    width: 90vw !important;
+    height: 90vh !important;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 1;
+    z-index: 1;
+
+    background-color: rgb(250, 250, 250) !important;
+    color: #4b4f53;
+    margin: 0 !important;
+    display: flex;
+    max-width: 100vw !important;
+    text-align: center;
+    border: 2px solid rgb(199, 199, 199);
+    
+
+    :first-child,
+    :last-child {
+        width: 50% !important;
+        margin: 20px 40px !important;
+    }
+
+
+    .description {
+        font-size: 15px;
+        font-weight: 400;
+        height: 80%;
+        overflow: scroll;
+        margin: 5px 30px;
+    }
+
+    
+  
+    .date , .readmore {
+        display: none;
+    }
+
+    .titre {
+        max-height: 10%;
+    }
+    #btn-fermer{
+        max-height: 10%;
+     
+        display: block;
+        text-align: center;
+        margin: 10px auto;
+        border: none;
+        border-radius: 8px;
+        background-color: crimson;
+        color: white;
+        padding: 7px 10px ;
+    }
+}
