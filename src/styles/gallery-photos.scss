@@ -5,6 +5,11 @@
     padding: 30px 50px;
     align-items: center;
     justify-content: center;
+    
+}
+
+*{
+    box-sizing: border-box;
 }
 
 .une-publication {
@@ -100,4 +105,32 @@
         color: white;
         padding: 7px 10px ;
     }
+}
+
+@media(max-width: 800px) {
+
+    .expand {
+        flex-direction: column;
+        height: 90vh !important;
+        overflow: auto;
+        padding: 3px;
+        :first-child{
+            display: none;
+        }
+        :last-child {
+            width: 90% !important;
+            margin: 15px !important;
+        }
+
+        
+        .description {
+            overflow: none;
+            margin: 5px auto !important;
+            padding: 0;
+            width: 90% !important;
+        }
+
+
+    }
+
 }

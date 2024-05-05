@@ -64,7 +64,10 @@ function Lifestyle() {
 
                     <div className="date">02.03.2023</div>
                     <h1 className="titre">Travel </h1>
-                    <p className="description">Travel is good for yourself. I like visit Historical Places</p>
+                    <p className="description">I love Travel.
+                    Travel allows me to try new things and meet new people, helping combat monotony. <br/>
+                    Travel is good for my mental health. <br/>
+                    Travel helps my brain function better and boosts creativity.</p>
                     <a className="readmore">Read More </a>
                 </div>
 
@@ -72,15 +75,36 @@ function Lifestyle() {
                     <img src={ph12} />
                     <div className="date">02.03.2023</div>
                     <h1 className="titre">Friends  </h1>
-                    <p className="description">We are social creature, we need to humain. We can't vivre solo</p>
+                    <p className="description">I love speak, spend time with my friends. </p>
                     <a className="readmore">Read More </a>
                 </div>
+
+                <div className="une-publication">
+                    <img src="https://images.pexels.com/photos/1914984/pexels-photo-1914984.jpeg?auto=compress&cs=tinysrgb&w=1200" />
+                    <div className="date">02.03.2023</div>
+                    <h1 className="titre">Family  </h1>
+                    <p className="description">Most importante thing in my life.</p>
+                    <a className="readmore">Read More </a>
+                </div>
+
+                
 
                 <div className="une-publication">
                     <img src="https://images.pexels.com/photos/1479120/pexels-photo-1479120.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="book"/>
                     <div className="date">02.03.2023</div>
                     <h1 className="titre">Read Book</h1>
-                    <p className="description">Lorem ipsum the industry's standard dummy text ever since the 1500s</p>
+                    <p className="description">10 benefits of reading:
+                     Mental Stimulation, 
+                     Stress Reduction,
+                     Knowledge,
+                     Vocabulary Expansion, 
+                     Memory Improvement,
+                     Stronger Analytical Thinking Skills,
+                     Improved Focus and Concentration, 
+                     Better Writting Skills,
+                     Tranquillity,
+                     Free Entertrainment 
+                     </p>
                     <a className="readmore">Read More </a>
                 </div>
 
@@ -107,11 +131,9 @@ function Lifestyle() {
                         </button>
                     </div>
                     <div className="date">02.03.2023</div>
-                    <h1 className="titre"> Se ressourcer </h1>
-                    <p className="description"> Parfois on a besoin de sortir de sa routine et se ressourcer dans le nature.
-                        Parfois seule ou bien avec une personne qu'on aime parler.
-                        <br />
-                        He should retreat into his shell for a while and listen to himself thoroughly. He must withdraw into his inner world. Those who have no knowledge of their inner world, are only in love with matter and are lost in worldly pleasures. </p>
+                    <h1 className="titre"> Inner World </h1>
+                    <p className="description"> 
+                        "He should retreat into his shell for a while and listen to himself thoroughly. He must withdraw into his inner world. Those who have no knowledge of their inner world, are only in love with matter and are lost in worldly pleasures." </p>
                     <a className="readmore">Read More </a>
                 </div>
 
@@ -195,7 +217,7 @@ function Lifestyle() {
                     <a className="readmore">Read More </a>
                 </div>
 
-                <div className="une-publication">
+                {/* <div className="une-publication">
 
                     <div id="carouselExampleRide10" className="carousel slide" data-bs-ride="true">
                         <div className="carousel-inner">
@@ -224,7 +246,7 @@ function Lifestyle() {
                     <h1 className="titre">Vivre ma religion  </h1>
                     <p className="description">Go to Mosquee, Read but Understand quran. Vivre également. Have good relation with Allah. Be sincere, honest, frank  </p>
                     <a className="readmore">Read More </a>
-                </div>
+                </div> */}
 
                 <div className="une-publication">
                     <div id="carouselExampleRide11" className="carousel slide" data-bs-ride="true">
@@ -248,8 +270,9 @@ function Lifestyle() {
                     </div>
 
                     <div className="date">02.03.2023</div>
-                    <h1 className="titre"> Activités à faire  </h1>
-                    <p className="description">....................</p>
+                    <h1 className="titre"> Activity to do  </h1>
+                    <p className="description">To Camp,
+                    </p>
                     <a className="readmore">Read More </a>
                 </div>
 
