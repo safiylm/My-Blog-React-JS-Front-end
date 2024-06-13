@@ -1,5 +1,5 @@
 import Lifestyle from './components/PelliculePhotos/lifestyle.js'
-import LessonsforLife from './components/PelliculePhotos/nasihat.js'
+import LessonsforLife from './components/PelliculePhotos/sagesse.js'
 import Citation from './components/PelliculePhotos/citation.js'
 import ManeviyatHome from './components/Esma/home.js'
 import Marifetullah from './components/Esma/marifetullah.js'
@@ -15,7 +15,7 @@ function App() {
         <Route path="/" >
           <Route index element={<Lifestyle />} />
           <Route path="/accueil" element={<Lifestyle />} />
-          <Route path="/lessonsforLife" element={<LessonsforLife />} />
+          <Route path="/sagesse" element={<LessonsforLife />} />
           <Route path="/citation" element={<Citation />} />
 
 
