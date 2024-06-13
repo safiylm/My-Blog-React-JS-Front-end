@@ -25,9 +25,9 @@ export const array_lifestyle = [
         "image": [ph11],
         "titre":
         {
-            "fr": "",
+            "fr": "Vie minimaliste",
             "en": "Have minimalist life ",
-            "tr": "",
+            "tr": "Minimalist yasamak",
         },
         "texte":
         {
@@ -41,9 +41,9 @@ export const array_lifestyle = [
         "id": "ls2",
         "image": [ph6, ph3],
         "titre": {
-            "fr": "",
+            "fr": "Voyage",
             "en": " Travel ",
-            "tr": "",
+            "tr": "Seyahat",
         },
         "texte": {
             "fr": "",
@@ -55,9 +55,9 @@ export const array_lifestyle = [
         "id": "ls3",
         "image": [ph12],
         "titre": {
-            "fr": "",
+            "fr": "Amis",
             "en": "Friends ",
-            "tr": "",
+            "tr": "Arkadas",
         },
         "texte": {
             "fr": "",
@@ -70,14 +70,14 @@ export const array_lifestyle = [
         "id": "ls4",
         "image": ["https://images.pexels.com/photos/1914984/pexels-photo-1914984.jpeg?auto=compress&cs=tinysrgb&w=1200"],
         "titre": {
-            "fr": "",
+            "fr": "Famille",
             "en": "Family ",
-            "tr": "",
+            "tr": "Aile",
         },
         "texte": {
-            "fr": "",
+            "fr": "La chose la plus importante",
             "en": "Most importante thing in my life.",
-            "tr": ""
+            "tr": "En önemli sey"
         },
         
     },
@@ -86,14 +86,14 @@ export const array_lifestyle = [
         "id": "ls5",
         "image": ["https://images.pexels.com/photos/1479120/pexels-photo-1479120.jpeg?auto=compress&cs=tinysrgb&w=1200"],
         "titre": {
-            "fr": "",
+            "fr": "Lire",
             "en": "Read Book ",
-            "tr": "",
+            "tr": "Kitap okumak",
         },
         "texte": {
-            "fr": "",
+            "fr": "10 benefice de la lecture:",
             "en": "10 benefits of reading: Mental Stimulation, Stress Reduction,  Knowledge, Vocabulary Expansion, Memory Improvement,  Stronger Analytical Thinking Skills, Improved Focus and Concentration, Better Writting Skills, Tranquillity,  Free Entertrainment "
-            ,"tr": ""
+            ,"tr": "Okumanin 10 yarari: "
         }, 
     },
 
@@ -112,9 +112,9 @@ export const array_lifestyle = [
         "id": "ls7",
         "image": [ph25, ph26, ph1],
         "titre": {
-            "fr": "",
-            "en": "Inner World ",
-            "tr": "",
+            "fr": "Mon monde intérieur",
+            "en": "My Inner World ",
+            "tr": "Iç dünyam",
         },
         "texte": {
             "fr": "",
@@ -128,9 +128,9 @@ export const array_lifestyle = [
         "id": "ls8",
         "image": [ph23, ph15],
         "titre": {
-            "fr": "",
+            "fr": "Etudie, Travaille, Soit productive",
             "en": "Study, Work, Be productive ",
-            "tr": "",
+            "tr": "Oku, çalis, üretken ol",
         },
         "texte": {
             "fr": "",
@@ -144,9 +144,9 @@ export const array_lifestyle = [
         "id": "ls9",
         "image": [ph22, ph19, ph20],
         "titre": {
-            "fr": "",
+            "fr": "Amour",
             "en": "Love",
-            "tr": "",
+            "tr": "Ask",
         },
         "texte": {
             "fr": "",
@@ -160,15 +160,14 @@ export const array_lifestyle = [
         "id": "ls10",
         "image": [ph21, ph24],
         "titre": {
-            "fr": "",
-            "en": "Activity to do"
-            ,
-            "tr": "",
+            "fr": "Activités à faire",
+            "en": "Activity to do",
+            "tr": "Yapilacak aktivite",
         },
         "texte": {
-            "fr": "",
+            "fr": "Camper",
             "en": "To Camp,",
-            "tr": "",
+            "tr": "Kamp yapmak",
         },
 
     },
