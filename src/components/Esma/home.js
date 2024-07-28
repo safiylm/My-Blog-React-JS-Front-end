@@ -5,7 +5,6 @@ import '../../styles/Home.css';
 
 function ManeviyatHome() {
 
-
     return (
         <div className="App">
             <header className="App-header"> </header>
@@ -16,10 +15,19 @@ function ManeviyatHome() {
                 <div className="div1">
                     <div className="div1-text">
                        
-
                         <h1>Marifetullah  </h1>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
                         <a href="/2108200015/marifetullah">Visiter</a>
+                        <br/><br/> 
+                        <a style={{"display" :"inline-block"}} href="/2108200015/marifetullah/ene">Kendini bilen, Rabbini bilir</a>
+                        <br/> <br/>
+                        <a style={{"display" :"inline-block"}} href="/2108200015/marifetullah/allah">Allah</a>
+                        <br/> <br/>
+                        <a style={{"display" :"inline-block"}} href="/2108200015/marifetullah/acz">Allah'a ne ile yaklaşılır</a>
+                        <br/> <br/>
+                        <a style={{"display" :"inline-block"}} href="/2108200015/marifetullah/sebepler">Sebepler birer perdedir</a>
+                        <br/> <br/>
+
 
                         <h1>Esma  </h1>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>

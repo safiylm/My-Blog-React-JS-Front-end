@@ -237,7 +237,7 @@ export const array_nasihat = [
         "titre":
         {
             "tr": "Neden sürekli benim başıma geliyor? ",
-            "fr": "Pourquoi est-ce que ça continue à m'arriver ?",
+            "fr": "Bütün dertler 'ham’ olanı pişirmek içindi.",
             "en": "Why does it always happen to me?",
         },
         "texte": {

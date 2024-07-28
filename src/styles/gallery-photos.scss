@@ -52,6 +52,7 @@
     font-size: 15px;
     height: 70px;
     overflow: hidden;
+
     * {
         width: 100% !important;
     }
@@ -126,6 +127,7 @@
         font-size: 15px;
         height: auto;
         overflow: none;
+
         * {
             width: 100% !important;
         }
@@ -134,13 +136,14 @@
     .readmore {
         display: none;
     }
+
     .expand {
         flex-direction: column;
         height: 90vh !important;
         overflow: auto;
         padding: 3px;
 
-        #image{
+        #image {
             display: none;
         }
 
@@ -160,4 +163,14 @@
 
     }
 
+}
+
+@media(max-width:450px) {
+    .une-publication {
+        width: 90vw;
+
+        img {
+            width: 90vw;
+        }
+    }
 }

@@ -14,7 +14,7 @@ function Citation() {
 
             <div className="container-publications-photos">
 
-                {lang == "fr" && quotes.map((quote) =>
+                {lang === "fr" && quotes.map((quote) =>
 
                     <div key={quote.toString()} className="une-publication">
                         <img src={quote.image} alt='quote ' />
@@ -23,7 +23,7 @@ function Citation() {
                     </div>
                 )}
 
-                {lang == "tr" && quotes.map((quote) =>
+                {lang === "tr" && quotes.map((quote) =>
 
                     <div key={quote.toString()} className="une-publication">
                         <img src={quote.image} alt='quote ' />
@@ -32,7 +32,7 @@ function Citation() {
                     </div>
                 )}
 
-                {(lang == "en" || lang == null ) && quotes.map((quote) =>
+                {(lang === "en" || lang == null ) && quotes.map((quote) =>
 
                     <div key={quote.toString()} className="une-publication">
                         <img src={quote.image} alt='quote ' />

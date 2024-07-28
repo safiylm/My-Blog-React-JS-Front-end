@@ -17,14 +17,14 @@ function LessonsforLife() {
                 <div className="date">02.03.2023</div>
             
                 <h1 className="titre">
-                {lang == "fr" && post.titre.fr}
-                {(lang == "en" || lang == null) && post.titre.en}
-                {lang == "tr" && post.titre.tr}
+                {lang === "fr" && post.titre.fr}
+                {(lang === "en" || lang == null) && post.titre.en}
+                {lang === "tr" && post.titre.tr}
             </h1>
             <div className="description">
-                {lang == "fr" && post.texte.fr}
-                {(lang == "en" || lang == null) && post.texte.en}
-                {lang == "tr" && post.texte.tr}
+                {lang === "fr" && post.texte.fr}
+                {(lang === "en" || lang == null) && post.texte.en}
+                {lang === "tr" && post.texte.tr}
             </div>
                 <button id="btn-fermer" onClick={() => document.getElementById("text" + post.id).classList.remove("expand")}>Fermer</button>
                 <button onClick={() => document.getElementById("text" + post.id).classList.add("expand")} className="readmore">Read More </button>

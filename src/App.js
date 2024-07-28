@@ -3,6 +3,10 @@ import LessonsforLife from './components/PelliculePhotos/sagesse.js'
 import Citation from './components/PelliculePhotos/citation.js'
 import ManeviyatHome from './components/Esma/home.js'
 import Marifetullah from './components/Esma/marifetullah.js'
+import Ene from './components/Marifetullah/ene.js'
+import Acz from './components/Marifetullah/acz.js'
+import Sebepler from './components/Marifetullah/esbap.js'
+import Allah from './components/Marifetullah/allah.js'
 import Esma from './components/Esma/index.js'
 
 
@@ -21,6 +25,11 @@ function App() {
 
           <Route path="/2108200015" element={<ManeviyatHome />} />
           <Route path="/2108200015/marifetullah" element={<Marifetullah />} />
+          <Route path="/2108200015/marifetullah/ene" element={<Ene />} />
+          <Route path="/2108200015/marifetullah/acz" element={<Acz />} />
+          <Route path="/2108200015/marifetullah/sebepler" element={<Sebepler />} />
+          <Route path="/2108200015/marifetullah/allah" element={<Allah />} />
+          
           <Route path="/2108200015/esma" element={<Esma />} />
 
         </Route>

@@ -15,7 +15,7 @@ function Lifestyle() {
     const getlifestylecontent = array_lifestyle.map((post) =>
 
         <div className="une-publication">
-            {post.image.length == 1 ?
+            {post.image.length === 1 ?
                 <img alt='lifestyle' src={post.image[0]} />
                 :
                 <div id={"#carouselExampleRide" + post.id} className="carousel slide" data-bs-ride="true">
@@ -41,14 +41,14 @@ function Lifestyle() {
             <div className="date">02.03.2023</div>
 
             <h1 className="titre">
-                {lang == "fr" && post.titre.fr}
-                {(lang == "en" || lang == null) && post.titre.en}
-                {lang == "tr" && post.titre.tr}
+                {lang === "fr" && post.titre.fr}
+                {(lang === "en" || lang === null) && post.titre.en}
+                {lang === "tr" && post.titre.tr}
             </h1>
             <p className="description">
-                {lang == "fr" && post.texte.fr}
-                {(lang == "en" || lang == null) && post.texte.en}
-                {lang == "tr" && post.texte.tr}
+                {lang === "fr" && post.texte.fr}
+                {(lang === "en" || lang === null) && post.texte.en}
+                {lang === "tr" && post.texte.tr}
             </p>
 
 

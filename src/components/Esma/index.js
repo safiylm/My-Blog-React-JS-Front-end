@@ -5,13 +5,8 @@ import video0 from "../../assets/Univers is Museum.mp4"
 
 
 function Esma() {
-
-
     return (
-
-
         <>
-
             <Nav />
             <h1>Esma ül Hüsna </h1>
             {liste_esma.map((x) =>
@@ -50,16 +45,9 @@ function Esma() {
                             <a id="tag">{tag}</a>
                         )}
                     </div>
-
                 </div>
-
             )}
-
-
-
-
         </ >
-
     );
 }
 
