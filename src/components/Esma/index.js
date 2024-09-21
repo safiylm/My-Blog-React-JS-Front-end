@@ -1,7 +1,6 @@
 import '../../styles/esma.scss';
 import Nav from "../nav";
 import { liste_esma } from './liste';
-import video0 from "../../assets/Univers is Museum.mp4"
 
 
 function Esma() {
@@ -9,19 +8,20 @@ function Esma() {
         <>
             <Nav />
             <h1>Esma ül Hüsna </h1>
+            <div className="liste_esma">
             {liste_esma.map((x) =>
                 <div className="bir-esma" key={x.toString()}>
                     <div className="bir-esma-image" key={x.toString()}>
-                        {x.photos.length == 0 ? <video src={video0} autoPlay /> :
+                        {x.photos.length == 0 ? <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Istanbul%2C_Hagia_Sophia%2C_Allah.jpg/1920px-Istanbul%2C_Hagia_Sophia%2C_Allah.jpg" alt="allah" /> :
 
                             <div id={"carouselExampleRide" + x.nom} className="carousel slide" data-bs-ride="true">
                                 <div className="carousel-inner">
-                                {x.photos.map( (photo) => 
+                                {x.photos.map( (photo) =>
                                     <div className="carousel-item active">
                                         <img src={photo} className="d-block w-100" alt="..." />
                                     </div>
                                 )}
-                                   
+
 
                                 </div>
                                 <button className="carousel-control-prev" type="button" data-bs-target={"#carouselExampleRide" + x.nom} data-bs-slide="prev">
@@ -36,7 +36,7 @@ function Esma() {
                         }
                     </div>
                     <div className="bir-esma-texte" >
-                        <h1>{x.nom}</h1>
+                        <h2>{x.nom}</h2>
                         {x.signification_tr.map((signification) =>
                             <p>{signification}</p>
                         )}
@@ -47,6 +47,7 @@ function Esma() {
                     </div>
                 </div>
             )}
+            </div>
         </ >
     );
 }

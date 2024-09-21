@@ -84,8 +84,8 @@ export
         {
             "nom": "Gaffâr",
             "signification_tr": ["Dâimâ affeden",
-                "Ey kullarının günahlarını örten, ayıp ve kusurlarını bağışlayan; tekrarlanan günahları bağışlayan; mağfireti, bağışlaması sonsuz olan Gaffar.",
-                "Ey kullarını tüm Mânevî kirlerden, günahlardan temizleyen Gaffar."],
+                "Kullarının günahlarını örten, ayıp ve kusurlarını bağışlayan; tekrarlanan günahları bağışlayan; mağfireti, bağışlaması sonsuz olan.",
+                "Kullarını tüm Mânevî kirlerden, günahlardan temizleyen."],
             "signification_fr": [],
             "signification_en": [],
             "photos": [],
@@ -96,7 +96,8 @@ export
             "nom": "Afüvv",
             "signification_tr": [
                 "Hiç bir sorumluluk kalmayacak şekilde günahları affeden demektir.",
-                "Allah Teâlâ, günahları kökünden kazıyıp tamamen yok eder.Kirâmen kâtibin meleklerinin kayıtlarını siler.Hatırlayıp mahçup olmasınlar diye kullarına işledikleri günahları da unutturur.Bu isimden nasip alan kul, bir taraftan devamlı Allah’tan af diler, diğer taraftan ümitsizliğe kapılmaz.Kullara karşı da çok affedici olur.",
+                "Allah Teâlâ, günahları kökünden kazıyıp tamamen yok eder.Kirâmen kâtibin meleklerinin kayıtlarını siler. Hatırlayıp mahçup olmasınlar diye kullarına işledikleri günahları da unutturur.",
+                "Bu isimden nasip alan kul, bir taraftan devamlı Allah’tan af diler, diğer taraftan ümitsizliğe kapılmaz. Kullara karşı da çok affedici olur.",
             ],
             "signification_fr": [],
             "signification_en": [],
@@ -108,7 +109,8 @@ export
             "nom": "Tevvâb",
             "signification_tr": [
                 "Tövbe eden kullarının tövbelerini kabul eden ve tövbede muvaffak kılan demektir.",
-                "Allah Teâlâ, kullarını tövbeye sevkeden ve tövbelerini kabul edendir.Kendisine yönelen kullarının günahlarını affedendir.Tövbeleri kabul edip günahları bağışlayandır.Kul, işlediği günahlardan pişman olur, tövbeye yönelirse Allah onu tövbesinde başarılı kılar ve tövbesini kabul eder."],
+                "Allah Teâlâ, kullarını tövbeye sevkeden ve tövbelerini kabul edendir. Kendisine yönelen kullarının günahlarını affedendir.",
+                "Tövbeleri kabul edip günahları bağışlayandır. Kul, işlediği günahlardan pişman olur, tövbeye yönelirse Allah onu tövbesinde başarılı kılar ve tövbesini kabul eder."],
             "signification_fr": [],
             "signification_en": [],
             "photos": [],
