@@ -22,15 +22,11 @@ function Nav() {
         <nav>
             <div>
                 <a href={"/?lang=" + localStorage.getItem('lang')}>My Blog </a>
-                <button className="btn btn-light" onClick={() => langueEN()}>EN</button>
+             {/*   <button className="btn btn-light" onClick={() => langueEN()}>EN</button>
                 <button className="btn btn-light" onClick={() => langueFR()}>FR</button>
                 <button className="btn btn-light" onClick={() => langueTR()}>TR</button>
-            </div>
+           */} </div>
 
-            <div>
-                <a href={"/sagesse?lang=" + localStorage.getItem('lang')}>Sagesse</a>
-                <a href={"/citation?lang=" + localStorage.getItem('lang')}>Citation</a>
-            </div>
 
             <div>
                 <a href="https://www.instagram.com/safiylm/?next=%2F"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-instagram" viewBox="0 0 16 16">
