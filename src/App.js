@@ -11,11 +11,10 @@ import StyleDeVieMinimaliste from './components/Article/minimaliste.js'
 import Voyager from './components/Article/voyage.js'
 import MondeInterieur from './components/Article/mondeinterieur.js'
 import Lecture from './components/Article/lire.js'
-import Mariage from './components/Article/mariage.js'
 import Home from './components/home.js'
 import EffortEtResultat from './components/Article/efforts-resultat.js'
 import Subconscient from './components/Article/subconscient.js'
-import Development from './components/Article/developpement.js'
+import ChangementCommenceEnSoiMeme from './components/Article/changement-commence-en-soi-meme.js'
 import SensDeLaVie from './components/Article/sensdelavie.js'
 import QueteConstante from './components/Article/quete-constante.js'
 import MessageCache from './components/Article/message-cache.js'
@@ -37,9 +36,8 @@ function App() {
           <Route path="/voyage" element={<Voyager />} />
           <Route path="/minimaliste" element={<StyleDeVieMinimaliste />} />
           <Route path="/monde-interieur" element={<MondeInterieur />} />
-          <Route path="/mariage" element={<Mariage />} />
           <Route path="/lecture" element={<Lecture />} />
-          <Route path="/developpement" element={<Development />} />
+          <Route path="/changement-commence-en-soi-meme" element={<ChangementCommenceEnSoiMeme />} />
           <Route path="/subconscient" element={<Subconscient />} />
           <Route path="/effort-resultat" element={<EffortEtResultat />} />
           <Route path="/sens-de-la-vie" element={<SensDeLaVie />} />

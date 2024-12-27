@@ -1,7 +1,4 @@
 import ph1 from '../../assets/ph1.jpg'
-import ph19 from '../../assets/ph19.jpg'
-import ph20 from '../../assets/ph20.jpg'
-import ph22 from '../../assets/ph22.png'
 import ph25 from '../../assets/ph25.jpg'
 import ph26 from '../../assets/ph26.jpg'
 
@@ -32,7 +29,7 @@ export const array_articles = [
           
         },
     },
-    {
+   /* {
         "url" : "/lecture",
         "image": ["https://images.pexels.com/photos/1479120/pexels-photo-1479120.jpeg?auto=compress&cs=tinysrgb&w=1200"],
         "titre": {
@@ -47,14 +44,8 @@ export const array_articles = [
             "fr": "Mon monde intérieur",
         },
     },
-    { 
-        "url" : "/mariage",
-        "image": [ph22, ph19, ph20],
-        "titre": {
-            "fr": "Mariage",
-        },
-    },
 
+*/
     {
         "url": "/subconscient",
         "image": ["https://images.pexels.com/photos/20513314/pexels-photo-20513314/free-photo-of-osorno-sunset.jpeg?auto=compress&cs=tinysrgb&w=1200"],
@@ -64,10 +55,10 @@ export const array_articles = [
     },
 
     {
-        "url": "/developpement",
+        "url": "/changement-commence-en-soi-meme",
         "image": ["https://images.pexels.com/photos/19989958/pexels-photo-19989958/free-photo-of-a-view-of-the-sky-from-above-a-forest.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"],
         "titre":
-        { "fr": "Développement", },
+        { "fr": "Le changement commence en soi-même", },
      
     },
     {
@@ -139,7 +130,7 @@ export const array_articles = [
         "titre":
         {
             "tr": "Bırak taklidi, kendin ol.",
-            "fr": "Soi toi même",
+            "fr": "Cesse d'imiter, Sois toi-même",
             "en": "Stop the imitation, be yourself",
         },
      

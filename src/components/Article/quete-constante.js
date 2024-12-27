@@ -8,18 +8,46 @@ function QueteConstante() {
 
     return (
         <>
-            <h1>Mon Monde intérieur</h1>
-            <div className="publication">
+            <h1>La quête infini </h1>
 
-                <div className="publication-image">
-                    <img alt="photo d'un salon minimaliste" src="https://images.pexels.com/photos/2147487/pexels-photo-2147487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" />
-                </div>
-
-                <div className="publication-txt">
-
-                    <h2 className="titre"></h2>
-                    <ul>
-                    " Hayat bir arayış, hem de sürekli. Sürekli olduğu kadar da bilinmeyen.",
+            <div className='article-texte-main'>
+                « La vie est une quête, constante et perpétuelle. Aussi constante qu’inconnue. <br />
+                Parfois pleine d’espoir, parfois désespérée. <br />
+                Parfois lente et douce, parfois comme une vague furieuse qui se heurte aux murs… <br />
+                <br />
+                Personne n’est satisfait de sa situation. <br />
+                Qu’il possède des biens, des titres ou non, tout le monde cherche quelque chose. <br />
+                Les riches, les pauvres, les puissants, les faibles, les bons, les mauvais. <br />
+                <br />
+                Les gens cherchent. Mais quoi ? Nous ne le savons pas. Parce que tout ce que nous trouvons, tout endroit où nous parvenons, révèle que ce n’est pas ce que nous cherchions. Nous ne sommes pas satisfaits. L’excitation dure jusqu’à ce qu’on y arrive. Une fois atteint, elle s’éteint. Et nous commençons à chercher autre chose.
+                <br /> <br />
+                C’est comme si nous avions un trou noir en nous. Tous les dénouements sont ennuyeux, toutes les possessions deviennent banales. Aucune situation d’atteinte ne peut égaler l’excitation du chemin. Nous nous disons :
+                « – Voilà, si je suis avec cette personne, tout ira bien… » <br />
+                « – Oui, devenir directeur sera un tournant pour moi. » <br />
+                « – Une fois ce cours validé, il n’y aura plus d’obstacle devant moi… » <br />
+                « – J’en ai marre qu’ils se mêlent de ma vie, une fois que j’aurai mon propre logement, je repartirai à zéro… »
+                <br /> <br />
+                Il y a un vide profond en nous, et nous cherchons désespérément à le remplir. C’est comme une maladie. Une épidémie. Une pulsion instinctive présente en chacun dès la naissance. Et rien ne semble pouvoir nous combler…
+                <br /> <br />
+                Si nous ne nous lassons pas de chercher, c’est parce que nous ne restons jamais inactifs. Quelque chose de nouveau surgit toujours devant nous, et nous nous mettons à le poursuivre.
+                <br /> <br />
+                Mon cher Basilic, que cherches-tu ? Cherches-tu au bon endroit ou simplement là où tu te trouves ? Sais-tu seulement ce que tu cherches ? Si tu ne le sais pas, comment peux-tu le trouver ?
+                <br /> <br />
+                Nous pensons que la clé de cette quête réside dans l’argent, le prestige ou la reconnaissance. Mais les gens riches ne cherchent-ils pas ? Les personnes respectées et prestigieuses ne sont-elles pas en quête aussi ? Regarde autour de toi, observe les journaux, la télévision, les nouvelles : tout le monde cherche, tout le monde est malheureux. Cela prouve que ces choses ne sont pas la clé. Ce doit être autre chose. Quelque chose qui, une fois trouvé, te nourrirait durablement, sans jamais perdre sa saveur.
+                <br /> <br />
+                Tout le monde cherche, mais tout le monde ne trouve pas, mon cher Feslegen <br />
+                Toi, que cherches-tu, Basilic ? Quelle est ta souffrance ? Pourquoi existes-tu ? Où vas-tu ?
+                Si tu racontais ta douleur, ferait-elle pleurer les gens ? Se sentiraient-ils émus avec toi ?
+                Ta douleur devrait être telle que, lorsqu’elle est racontée, celui qui l’écoute ne s’ennuie pas mais finit par l’aimer. Elle devrait être capable de transformer la vie de celui qui écoute.
+                <br /> <br />
+                Notre plus grande erreur commence par notre désir de posséder. Qui a pu emporter quoi que ce soit dans l’autre monde ? Tout retournera à la terre. Et dans le sein de la terre repose l’univers tout entier. Ce qui a de la valeur, c’est l’âme.
+                <br /> <br />
+                C’est l’essence de l’âme…
+                <br /> <br />
+                Le sens spirituel peut sembler rebutant au début, mais plus on le goûte, plus il devient agréable. Et on ne s’en lasse jamais. La matière, en revanche, est plaisante au début, mais plus on la goûte, moins elle plaît. Elle finit par lasser. »
+            </div>
+            <div className='d-none'>
+                " Hayat bir arayış, hem de sürekli. Sürekli olduğu kadar da bilinmeyen.",
                 "Bazen ümitli, bazen de ümitsiz.",
                 "Bazen yavaş yavaş, bazen hırçın bir dalga gibi duvarlara çarpa çarpa....",
                 "Kimse bulunduğu durumdan memnun değil.",
@@ -47,9 +75,8 @@ function QueteConstante() {
 
                 "Mana önce hoş gelmez, tattıkça hoş gelir. Hiç sıkılmazsın. Madde ise önce hoş gelir, tattıkça hoş gelmez. Sıkar."
 
-                   </ul>
-                </div>
             </div>
+
         </>
     );
 }

@@ -7,7 +7,7 @@ function EffortEtResultat() {
 
     return (
         <>
-            <h1>Developpement  </h1>
+            <h1>Les efforts & le resultat   </h1>
             <div className="publication">
 
                 <div className="publication-image">
