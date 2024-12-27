@@ -79,7 +79,7 @@ export const quotes = [
         , "auteur": "Osho "
 
     },
-
+/*
     {
         "id": "7",
         "image": [""],
@@ -115,7 +115,7 @@ export const quotes = [
         , "auteur": "Erdem Bayezit  "
 
     },
-   
+   */
    
    
 ];
